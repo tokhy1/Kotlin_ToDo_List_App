@@ -8,10 +8,6 @@ This is Simple Android app for adding you tasks and you can use it to manage you
 <li>Kotlin</li>
 
 
-## Screenshots
-
-https://github.com/tokhy1/ToDo_List/assets/140895791/c783c13e-1e96-4ffc-b198-0243ed6dd991
-
 
 ## Features
 
@@ -19,7 +15,7 @@ https://github.com/tokhy1/ToDo_List/assets/140895791/c783c13e-1e96-4ffc-b198-024
 - can delete specific task
 - can update specific task
 - can delete all tasks in one time
-- 
+
 
 ## Contributing
 
